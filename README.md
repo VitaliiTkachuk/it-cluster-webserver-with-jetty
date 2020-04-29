@@ -2,3 +2,4 @@ https://examples.javacodegeeks.com/enterprise-java/jetty/maven-jetty-plugin-exam
 
 https://www.codejava.net/java-ee/servlet/handling-html-form-data-with-java-servlet
 
+http://zetcode.com/java/httpclient/
